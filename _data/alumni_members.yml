@@ -1,0 +1,160 @@
+- name: Yanrong(Jerry) Ji
+  photo: jerry.jpg
+  info: Ph.D. in BioMedical Informatics
+  email: yanrongji2021@u.northwestern.edu
+  duration: In the Davuluri Lab Oct. 2017 –  May, 2021, now Analytics Advisor, Clinical Trial Services at CVS Health
+  number_educ: 3
+
+- name: Manoj Kandpal
+  photo: kandpal.jpg
+  info: Res. Asst Professor, Department of Surgery, NUFSM
+  email: kandpal@northwestern.edu 
+  duration: In the Davuluri Mar. 2014 – June 2020, now Director of Research Bioinformatics, Hospital Administration, Rockefeller University
+  number_educ: 1
+
+- name: Mathew Dapas
+  photo: 
+  info: PhD Student, Bioinformatics Track, Mar. 2015 – Mar. 2019
+  email:
+  duration: In the Davuluri Lab Mar. 2015 – Mar. 2019, now Postdoctoral Fellow, University of Chicago, IL
+  number_educ: 1
+
+- name: Sudesh Pundir
+  photo: 
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Jan. 2018 – Jan. 2019, now Asst Professor (From Pondicherry University, India)
+  number_educ: 1
+
+- name: Arunima Shilpi
+  photo: 
+  info: Postdoctoral Fellow
+  email:
+  duration: In the Davuluri Lab Dec. 2016 – Dec. 2018, now Bioinformatics Scientist at NIH, MD
+  number_educ: 1
+
+- name: Yingtao Bi
+  photo: 
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Oct. 2009 - Mar. 2017, now Director of Bioinformatics, AbbVie, MA
+  number_educ: 1
+
+- name: HongJian Jin
+  photo: 
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Aug. 2014 – Aug. 2017, now Research Assistant Professor, St Judes Children’s Research Hospital, Memphis
+  number_educ: 1
+
+- name: Segun Jung
+  photo: 
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Nov. 2013 – Dec. 2015, now Associate Director, R&D and Clinical Bioinformatics, NeoGenomics Laboratories, CA
+  number_educ: 1
+
+- name: Auditi Debroy
+  photo: 
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Oct. 2014 – Sept. 2015 , now Associate Director at Bristol-Myers Squibb (Immuno-Oncology)
+  number_educ: 1
+
+- name: Ferhat Ay
+  photo: 
+  info: Postdoctoral Fellow
+  email:
+  duration: In the Davuluri Lab Mar. 2015 – Dec. 2015, now Institute Leadership Associate Professor of Computational Biology, La Jolla Institute for Allergy and Immunology, San Diego, CA. 
+  number_educ: 1
+
+- name: Ravi Gupta
+  photo: 
+  info: Postdoctoral Fellow
+  email:
+  duration: In the Davuluri Lab Jul. 2008 - Feb. 2012, now VP of Bioinformatics, MedGenome Labs, India 
+  number_educ: 1
+  
+- name: Sharmistha Pal
+  photo: 
+  info: Postdoctoral Fellow
+  email:
+  duration: In the Davuluri Lab Sep. 2008 - Feb. 2013, now Senior Scientist, Haas-Kogan Lab, Dana Farber Cancer Institute, Harvard University, Boston, MA
+  number_educ: 1
+
+- name: Madhu Bhattacharjee
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Nov. 2009 - Apr. 2010, now Associate Professor, University of Hyderabad, Hyderabad, India. 
+  number_educ: 1
+
+- name: Murali Bashyam
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Jan. 2013 - Jun. 2013, now Group Head (PI) of Laboratory of Molecular Oncology, Centre for DNA Fingerprinting and Diagnostics (CDFD), Hyderabad, India
+  number_educ: 1
+
+- name: Hyunsoo Kim
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab May 2009 - Aug. 2011, now Assistant Professor,  Div. of Biomedical Informatics, School of Medicine, University of Alabama, Birmingham 
+  number_educ: 1
+
+- name: Zhongfa (Jacob) Zhang
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Oct. 2010 - Mar. 2012, now Bioinformatics Scientist, Millennium Pharmaceuticals, Cambridge, MA
+  number_educ: 1
+
+- name: Priyankara Wikramasinghe
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab May. 2006 - Apr. 2008, now Associate Wistar Scientist, The Wistar Institute, Philadelphia, PA. 
+  number_educ: 1
+
+- name: Anirban Bhattacharya
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Nov. 2007 - May, 2010, now Chief Scientist (Scalable Systems and Machine Learning) at Bashpole Inc., Philadelphia, PA 
+  number_educ: 1
+
+- name: Hao Sun
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab April 2002-Dec. 2003, now Full Professor, Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong 
+  number_educ: 1
+
+- name: Gregory Singer
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab May 2004 - Apr. 2008, now Director of Research Grants at Ryerson University. 
+  number_educ: 1
+
+- name: Huaxia Qin
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Sep. 2005 - Sep.2007, now Statistician, JP Morgan Chase Bank & Co., Columbus, OH
+  number_educ: 1
+
+- name: Victor Jin
+  photo:
+  info: Postdoctoral Fellow
+  email: 
+  duration: In the Davuluri Lab Apr. 2003 - Nov. 2005, now Full Professor of Bioinformatics, Dept of Molecular Medicine, University of Texas, San Antonio, TX. 
+  number_educ: 1
+
+
+
+
+
+
+
