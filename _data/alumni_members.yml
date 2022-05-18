@@ -1,15 +1,15 @@
 - name: Yanrong(Jerry) Ji
   photo: jerry.jpg
-  info: Ph.D. in BioMedical Informatics
+  info: Ph.D. in BioMedical Informatics, Oct. 2017 –  May. 2021
   email: yanrongji2021@u.northwestern.edu
-  duration: In the Davuluri Lab Oct. 2017 –  May, 2021, now Analytics Advisor, Clinical Trial Services at CVS Health
+  current_position: Analytics Advisor, Clinical Trial Services at CVS Health
   number_educ: 3
 
 - name: Manoj Kandpal
   photo: kandpal.jpg
-  info: Res. Asst Professor, Department of Surgery, NUFSM
+  info: Res. Asst Professor, Department of Surgery, NUFSM, Mar. 2014 – June 2020
   email: kandpal@northwestern.edu 
-  duration: In the Davuluri Mar. 2014 – June 2020, now Director of Research Bioinformatics, Hospital Administration, Rockefeller University
+  duration: Director of Research Bioinformatics, Hospital Administration, Rockefeller University
   number_educ: 1
 
 - name: Mathew Dapas
