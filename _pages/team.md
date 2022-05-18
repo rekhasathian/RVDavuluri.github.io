@@ -11,11 +11,11 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [faculty](#faculty), [postdoctoral fellows](#postdoctoral-fellows), [graduate students](#graduate-students), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate students](#graduate-students), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Faculty
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.faculty_member %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -23,10 +23,10 @@ Jump to [faculty](#faculty), [postdoctoral fellows](#postdoctoral-fellows), [gra
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<div class="col-sm-10 clearfix">
+  <a href= "{{ member.website }}"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" /></a>
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br><b>Email: </b>{{ member.email }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -77,9 +77,9 @@ Jump to [faculty](#faculty), [postdoctoral fellows](#postdoctoral-fellows), [gra
 
 
 
-## Postdoctoral Fellows
+## Research Staffs
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.staff %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -88,9 +88,9 @@ Jump to [faculty](#faculty), [postdoctoral fellows](#postdoctoral-fellows), [gra
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <a href= "{{ member.website }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br><b>Email: </b>{{ member.email }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -115,13 +115,6 @@ Jump to [faculty](#faculty), [postdoctoral fellows](#postdoctoral-fellows), [gra
   <li> {{ member.education4 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
 
   </ul>
 </div>
@@ -144,7 +137,7 @@ Jump to [faculty](#faculty), [postdoctoral fellows](#postdoctoral-fellows), [gra
 ## Graduate Students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.grad_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -153,9 +146,11 @@ Jump to [faculty](#faculty), [postdoctoral fellows](#postdoctoral-fellows), [gra
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <a href= "{{ member.website }}" target="_blank">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  </a>
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.info }} <br><b>Email: </b>{{ member.email }}</i>
   <ul style="overflow: hidden">
 
   </ul>
