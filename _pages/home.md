@@ -61,6 +61,7 @@ We are located at Stony Brook University Hospital which is in connection with th
  -->
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbu_logo.jpg" style="width: 210px">
+  <br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbumed_logo.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbu_cc_logo.jpg" style="width: 120px">
 </figure>
