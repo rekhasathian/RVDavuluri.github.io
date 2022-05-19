@@ -151,7 +151,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
   <i>{{ member.info }} <br><b>Email: </b>{{ member.email }}</i>
     <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+  <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -171,7 +171,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
 
   </ul>
