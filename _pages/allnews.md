@@ -8,7 +8,16 @@ permalink: /allnews.html
 
 # News
 
-{% for article in site.data.news %}
+<!-- {% for article in site.data.news %}
 <p>{{ article.date }} <br>
 <em>{{ article.headline | markdownify}}</em></p>
-{% endfor %}
+{% endfor %} -->
+
+
+<div class="col-sm-12 clearfix">
+
+<ul style="overflow: hidden">
+  {% for article in site.data.news %}
+  <li>{{ article.date }} <i>{{ article.headline | markdownify}}</i> </li>
+  {% endfor %}
+</ul>
