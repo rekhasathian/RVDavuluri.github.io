@@ -88,8 +88,8 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <a href= "{{ member.website }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
-  <h4>{{ member.name }}</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href= "{{ member.website }}" target="_blank">{{ member.name }}</a></h4>
   <i>{{ member.info }} <br><b>Email: </b>{{ member.email }}</i>
   <ul style="overflow: hidden">
 
@@ -147,9 +147,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <a href= "{{ member.website }}" target="_blank">
-  <h4>{{ member.name }}</h4>
-  </a>
+  <h4><a href= "{{ member.website }}" target="_blank">{{ member.name }}</a></h4>
   <i>{{ member.info }} <br><b>Email: </b>{{ member.email }}</i>
   <ul style="overflow: hidden">
 
