@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate students](#graduate-students), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate students](#graduate-students), and [former lab members](#former-postdoc-and-graduate-students).
 
 ## Faculty
 {% assign number_printed = 0 %}
@@ -169,7 +169,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
 </div>
 {% endif %}
 
-## Former visitors, Postdoc and Graduate students
+## Former Postdoc and Graduate students
 <div class="row">
 
 <div class="col-sm-12 clearfix">
