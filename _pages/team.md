@@ -149,7 +149,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href= "{{ member.website }}" target="_blank">{{ member.name }}</a></h4>
   <i>{{ member.info }} <br><b>Email: </b>{{ member.email }}</i>
-    <ul style="overflow: hidden">
+    <!-- <ul style="overflow: hidden"> -->
 
   <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -174,7 +174,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
   {% endif %} -->
 
 
-  </ul>
+ <!--  </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
