@@ -59,6 +59,25 @@ We are located at Stony Brook University Hospital which is in connection with th
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
  -->
+
+
+### Collaborators
+<!-- We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard. -->
+
+### Joining Davuluri Lab
+If you are interested in joining please go to the [recruitment]({{ site.url }}{{ site.baseurl }}/vacancies) page.
+
+<!-- ### Funding
+We are grateful for funding from the [National Institute of Mental Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
+
+<figure class="third">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ASF.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
+</figure>
+
+ -->
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbu_logo.jpg" style="width: 210px">
   <br>
