@@ -175,7 +175,7 @@ Jump to [faculty](#faculty), [research staffs](#research-staffs), [graduate stud
 <div class="col-sm-12 clearfix">
 
 {% for member in site.data.alumni_members %}
-<li>{{ member.name }}, {{member.info}} , <i>currently: {{member.current_position}}</i> 
+<li>{{ member.name }}, {{member.info}}, <i><b>Currently:</b> {{member.current_position}}</i> 
 {% endfor %}
 </div>
 
