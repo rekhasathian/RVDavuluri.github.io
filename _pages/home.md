@@ -67,20 +67,20 @@ We are located at Stony Brook University Hospital which is in connection with th
 
 
 
-<!-- ### Funding
-We are grateful for funding from the [National Institute of Mental Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
+### Funding
+We are grateful for funding from the [National Library of Medicine](https://www.nlm.nih.gov/), the [National Cancer Institute](https://www.cancer.gov/), the [National Institute on Aging](https://www.nia.nih.gov/), and many more.
 
 <figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIH.png" style="width: 200px">  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NLM.jpg" style="width: 200px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ASF.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIA.jpg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NCI.jpg" style="width: 200px">
 </figure>
 
- -->
-### Funding
+
+<!-- ### Funding
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbu_logo.jpg" style="width: 210px">
   <br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbumed_logo.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbu_cc_logo.jpg" style="width: 120px">
-</figure>
+</figure> -->
