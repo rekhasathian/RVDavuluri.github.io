@@ -54,6 +54,13 @@ To this end, we develop novel informatics methods focused on understanding genom
 
 We are located at Stony Brook University Hospital which is in connection with the University. This collaborative space promotes direct contact with 
 
+
+
+
+### Collaborators
+<!-- We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard. -->
+
+
 ### Joining Davuluri Lab
  **We are always looking for passionate new PhD students, Postdocs, and Master students to join the team. If you are interested in joining please go to the [openings]({{ site.url }}{{ site.baseurl }}/vacancies) page !!!** 
 
@@ -62,8 +69,6 @@ We are located at Stony Brook University Hospital which is in connection with th
  -->
 
 
-### Collaborators
-<!-- We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard. -->
 
 
 
