@@ -10,6 +10,8 @@ permalink: /publications/
 # Publications
 
 ## Group highlights
+
+### This page will update soon.
 <!-- 
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=X0saPWYAAAAJ), [DBLP](https://dblp.org/pid/55/2246.html))
 
