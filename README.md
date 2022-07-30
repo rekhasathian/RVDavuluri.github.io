@@ -1,6 +1,6 @@
 # Davuluri Lab Website
 
-This is the website of our academic research group at Stony brook University. 
+This is the website of our Academic Research Group at SUNY - Stony Brook.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 
