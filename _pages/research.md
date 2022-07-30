@@ -18,7 +18,7 @@ Our research is focused on developing statistical machine learning based algorit
 #### [Code]()
 **Pratik Dutta*, Yanrong Ji**
 
-<center>Our group used the existing DNABERT model and science and applied it to virus strains (in collaboration with [Dr Han Liu, Department of Computer Science, Northwestern University] (http://magics.cs.northwestern.edu/index.html)).</center>
+<center>Our group used the existing DNABERT model and science and applied it to virus strains (in collaboration with [Dr Han Liu, Department of Computer Science, Northwestern University](http://magics.cs.northwestern.edu/index.html)).</center>
 
 
 #### DGCCA subtyping in Cancer:
@@ -31,7 +31,7 @@ Our research is focused on developing statistical machine learning based algorit
 **Yanrong Ji, Zhihan Zhou**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/dnabert.png){: style="width: 70%; float: center; margin: 10px"}
-<center>Understanding the hidden instructions within genome on gene regulation is crucial for biological research. However, complex language patterns widely exist in DNA, such as polysemy and distant semantic relationship, which previous methods often fail to capture especially in data-scarce scenarios. For the first time, our group (in collaboration with [Dr Han Liu, Department of Computer Science, Northwestern University] (http://magics.cs.northwestern.edu/index.html)) developed **DNABERT** to enhance the global understanding of genomic sequences based on up and downstream sequence contexts. Using an innovative global contextual embedding of input sequences, DNABERT attempts to tackle the problem of sequence specificity prediction with a “top-down” approach by developing general understanding of DNA language via self-supervised pre-training and applying it to specific tasks (for example, prediction of promoters, transcription factor binding sites and splice sites), in contrast to the traditional “bottom-up” approach using task-specific data. Various modules of DNABERT are currently under development. It is anticipated that the pre-trained DNABERT on the human genome can also be readily applied to data from other organisms with exceptional performance.</center>
+<center>Understanding the hidden instructions within genome on gene regulation is crucial for biological research. However, complex language patterns widely exist in DNA, such as polysemy and distant semantic relationship, which previous methods often fail to capture especially in data-scarce scenarios. For the first time, our group (in collaboration with [Dr Han Liu, Department of Computer Science, Northwestern University](http://magics.cs.northwestern.edu/index.html)) developed **DNABERT** to enhance the global understanding of genomic sequences based on up and downstream sequence contexts. Using an innovative global contextual embedding of input sequences, DNABERT attempts to tackle the problem of sequence specificity prediction with a “top-down” approach by developing general understanding of DNA language via self-supervised pre-training and applying it to specific tasks (for example, prediction of promoters, transcription factor binding sites and splice sites), in contrast to the traditional “bottom-up” approach using task-specific data. Various modules of DNABERT are currently under development. It is anticipated that the pre-trained DNABERT on the human genome can also be readily applied to data from other organisms with exceptional performance.</center>
 
 
 #### ExTraMapper: exon- and transcript-level mappings for orthologous gene pairs:
