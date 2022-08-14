@@ -28,12 +28,12 @@ Our group used the existing DNABERT model and science and applied it to virus st
 </div>
 ----
 
-## DeepMOIS-MC: Deep Multi-Omics Integration by Learning Correlation-Maximizing for DGCCA subtyping in Cancer
+## DeepMOIS-MC: Deep Multi-Omics Integration by Learning Correlation-Maximizing for Cancer Subtyping
 ### [Code will available soon]()
 **Yanrong Ji, Pratik Dutta**
 <div style="text-align: justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/DEEPMOIS.png){: style="width: 35%; float: left; margin-right: 30px; border: 10px"} 
-DeepMOIS-MC (Deep Multi-Omics Integrative Subtyping by Maximizing Correlation), a novel deep learning-based method that achieves multi-omics integration and subtyping of cancer by finding a low-dimensional shared representation that maximizes the correlation between multiple views. DeepMOIS-MC extends DGCCA (Deep Generalized Canonical Correlation Analysis) [319], a canonical correlation analysis-based algorithm that can simultaneously learn nonlinear relationships between more than two views. The hypothesis is that the shared embedded space that maximizes correlation between views should contain most useful information for robust subtyping, since this indicates that certain patterns are repeatedly seen across multiple -omics platforms. We show that DeepMOIS-MC is indeed capable of robustly and accurately identifying cancer subtypes with enhanced prognostic stratification that are translatable across platforms.
+DeepMOIS-MC (Deep Multi-Omics Integrative Subtyping by Maximizing Correlation), a novel deep learning-based method that achieves multi-omics integration and subtyping of cancer by finding a low-dimensional shared representation that maximizes the correlation between multiple views. DeepMOIS-MC extends DGCCA (Deep Generalized Canonical Correlation Analysis), a canonical correlation analysis-based algorithm that can simultaneously learn nonlinear relationships between more than two views. The hypothesis is that the shared embedded space that maximizes correlation between views should contain most useful information for robust subtyping, since this indicates that certain patterns are repeatedly seen across multiple -omics platforms. We show that DeepMOIS-MC is indeed capable of robustly and accurately identifying cancer subtypes with enhanced prognostic stratification that are translatable across platforms.
 </div>
 ----
 
@@ -46,33 +46,32 @@ Understanding the hidden instructions within genome on gene regulation is crucia
 </div>
 ----
 
-## ExTraMapper: exon- and transcript-level mappings for orthologous gene pairs
+## ExTraMapper: Exon- and transcript-level Mappings for Orthologous Gene Pairs
 ### [Code](https://github.com/RDavuluri-Lab-SUNY-STONYBROOK/ExTraMapper)
 **Abhijit Chakraborthy, Ferhat Ay**
 <div style="text-align: justify">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/extramapper.jpeg){: style="width: 70%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/extramapper.jpeg){: style="width: 35%; float: left; margin-right: 30px; border: 10px"}
 ExTraMapper is a novel tool to find Exon and Transcript-level Mappings of a given pair of orthologous genes between two organisms leveraging sequence conservation between exons of a pair of organisms and produces a fine-scale orthology mapping at the exon and then transcript level. The tool identifies a larger number of exon and transcript mappings compared to previous methods. Further, it identifies exon fusions, splits and losses due to splice site mutations, and finds mappings between microexons that were previously missed.
 </div>
 ---- 
 
-## Platform-independent isoform-level gene signatures for stratification of cancer patients into molecular subgroups
+## Platform-independent Isoform-level Gene Signatures for Stratification of Cancer Patients into Molecular Subgroups
 **Sharmishtha Pal, Yingtao Bi, Arunima Shilpi, Yanrong Ji, Manoj Kandpal**
 <div style="text-align: justify">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/pigex.jpg){: style="width: 70%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/pigex.jpg){: style="width: 35%; float: left; margin-right: 30px; border: 10px"}
 Based on recent studies from Our group and others, significant expression differences were observed between different sample groups (e.g., developmental stages, cancer subtypes, normal vs cancer) for numerous genes at the isoform-level but not at the overall gene-level. We investigated whether the isoform-level transcriptome changes could provide better patient stratification in terms of overall prognosis and classification accuracy. His group developed novel methods, by integrating data discretization, feature selection, and meta-classification algorithms, for derivation of platform-independent gene signature for multi-label molecular stratification of cancer patients, from exon-array and RNA-seq data. The application of these algorithms has led to the development of new methods for diagnosis of glioblastoma and ovarian serous carcinoma among others, and the investigation of alternative splicing on drug-target gene interactions.
 </div>
 ---- 
 
-## Isoform-level gene expression and regulation in mammalian development and cancer
+## Isoform-level Gene Expression and Regulation in Mammalian Development and Cancer
 <div style="text-align: justify">
 Recent genome-wide studies have discovered that majority of human genes produce multiple transcript-variants/protein-isoforms, which could be involved in different functional pathways. Moreover, altered expression of specific isoforms for numerous genes is linked with cancer and its prognosis, as cancer cells manipulate regulatory mechanisms to express specific isoforms that confer drug resistance and survival advantages. For example, cancer-associated alterations in alternative exons and splicing machinery have been identified in cancer samples, suggesting that specific transcript-variants could be more effective as diagnostic and prognostic markers than corresponding genes. In a recent study, Our Dgroup discovered that majority of genes associated with neurological diseases expressed multiple transcripts through alternative promoters by using integrative NextGen sequencing based experimental approaches and bioinformatics analysis. The study also observed aberrant use of alternative promoters and splice variants in different cancers. Subsequently, his group demonstrated that cancer cell-lines regardless of their tissue of origin can be effectively discriminated from non-cancer cell-lines at isoform-level, but not at gene-level. The novel informatics methods have been successfully applied by his collaborators in different cancer studies.
 </div>
 ---- 
 
-## Algorithms and bioinformatics software for analyses of NextGen sequence data
+## Algorithms and Bioinformatics Software for Analyses of NextGen Sequence Data
 <div style="text-align: justify">
 Mapping genome-wide data to human subtelomeres has been problematic due to the incomplete assembly and challenges of lowcopy repetitive DNA elements. Our group developed novel bioinformatics pipelines for incorporating multi-read mapping for annotation of the updated assemblies using short-read data sets from ChIP-seq data, and RNA-seq data. As part of other collaborative efforts, we also developed bioinformatics methods for identification of single-nucleotide polymorphisms (SNPs) that alter miRNA gene regulation and influence tumor susceptibility. 
 </div>
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
 
