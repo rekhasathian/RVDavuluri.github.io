@@ -52,14 +52,16 @@ ExTraMapper is a novel tool to find Exon and Transcript-level Mappings of a give
 {: style="text-align: justify"}
 <br/>
 <br/>
-### Platform-independent isoform-level gene signatures for stratification of cancer patients into molecular subgroups:
-**Sharmishtha Pal, Yingtao Bi, Arunima Shilpi, Yanrong Ji, Manoj Kandpal**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/pigex.jpg){: style="width: 70%; float: center; margin: 10px"}<br/>
+
+## Platform-independent isoform-level gene signatures for stratification of cancer patients into molecular subgroups:
+**Sharmishtha Pal, Yingtao Bi, Arunima Shilpi, Yanrong Ji, Manoj Kandpal**
+<div style="text-align: justify">
+![]({{ site.url }}{{ site.baseurl }}/images/respic/pigex.jpg){: style="width: 70%; float: center; margin: 10px"}
 Based on recent studies from Our group and others, significant expression differences were observed between different sample groups (e.g., developmental stages, cancer subtypes, normal vs cancer) for numerous genes at the isoform-level but not at the overall gene-level. We investigated whether the isoform-level transcriptome changes could provide better patient stratification in terms of overall prognosis and classification accuracy. His group developed novel methods, by integrating data discretization, feature selection, and meta-classification algorithms, for derivation of platform-independent gene signature for multi-label molecular stratification of cancer patients, from exon-array and RNA-seq data. The application of these algorithms has led to the development of new methods for diagnosis of glioblastoma and ovarian serous carcinoma among others, and the investigation of alternative splicing on drug-target gene interactions.
-{: style="text-align: justify"}
-<br/>
-<br/>
+</div>
+---- 
+
 ## Isoform-level gene expression and regulation in mammalian development and cancer:
 <div style="text-align: justify">
 Recent genome-wide studies have discovered that majority of human genes produce multiple transcript-variants/protein-isoforms, which could be involved in different functional pathways. Moreover, altered expression of specific isoforms for numerous genes is linked with cancer and its prognosis, as cancer cells manipulate regulatory mechanisms to express specific isoforms that confer drug resistance and survival advantages. For example, cancer-associated alterations in alternative exons and splicing machinery have been identified in cancer samples, suggesting that specific transcript-variants could be more effective as diagnostic and prognostic markers than corresponding genes. In a recent study, Our Dgroup discovered that majority of genes associated with neurological diseases expressed multiple transcripts through alternative promoters by using integrative NextGen sequencing based experimental approaches and bioinformatics analysis. The study also observed aberrant use of alternative promoters and splice variants in different cancers. Subsequently, his group demonstrated that cancer cell-lines regardless of their tissue of origin can be effectively discriminated from non-cancer cell-lines at isoform-level, but not at gene-level. The novel informatics methods have been successfully applied by his collaborators in different cancer studies.
