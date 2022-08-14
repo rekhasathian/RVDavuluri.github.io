@@ -28,11 +28,11 @@ Our group used the existing DNABERT model and science and applied it to virus st
 </div>
 ----
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/DEEPMOIS.png){: style="width: 35%; float: left; margin-right: 30px; border: 10px"}
 ## DeepMOIS-MC: Deep Multi-Omics Integration by Learning Correlation-Maximizing for DGCCA subtyping in Cancer
 ### [Code will available soon]()
 **Yanrong Ji, Pratik Dutta**
 <div style="text-align: justify">
+![]({{ site.url }}{{ site.baseurl }}/images/respic/DEEPMOIS.png){: style="width: 35%; float: left; margin-right: 30px; border: 10px"} 
 DeepMOIS-MC (Deep Multi-Omics Integrative Subtyping by Maximizing Correlation), a novel deep learning-based method that achieves multi-omics integration and subtyping of cancer by finding a low-dimensional shared representation that maximizes the correlation between multiple views. DeepMOIS-MC extends DGCCA (Deep Generalized Canonical Correlation Analysis) [319], a canonical correlation analysis-based algorithm that can simultaneously learn nonlinear relationships between more than two views. The hypothesis is that the shared embedded space that maximizes correlation between views should contain most useful information for robust subtyping, since this indicates that certain patterns are repeatedly seen across multiple -omics platforms. We show that DeepMOIS-MC is indeed capable of robustly and accurately identifying cancer subtypes with enhanced prognostic stratification that are translatable across platforms.
 </div>
 ----
