@@ -7,7 +7,6 @@ permalink: /research/
 ---
 
 # Research Highlights
-
 ---
 
 <div style="text-align: justify">
