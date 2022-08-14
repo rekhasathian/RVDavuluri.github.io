@@ -51,19 +51,18 @@ Understanding the hidden instructions within genome on gene regulation is crucia
 ### [Code](https://github.com/RDavuluri-Lab-SUNY-STONYBROOK/ExTraMapper)
 **Abhijit Chakraborthy, Ferhat Ay**
 <div style="text-align: justify">
-![]({{ site.url }}{{ site.baseurl }}/images/respic/extramapper.jpeg){: style="width: 30%; float: left; margin-right: 30px; border: 10px"}
-ExTraMapper is a novel tool to find Exon and Transcript-level Mappings of a given pair of orthologous genes between two organisms leveraging sequence conservation between exons of a pair of organisms and produces a fine-scale orthology mapping at the exon and then transcript level. The tool identifies a larger number of exon and transcript mappings compared to previous methods. Further, it identifies exon fusions, splits and losses due to splice site mutations, and finds mappings between microexons that were previously missed.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/extramapper.jpeg){: style="width: 35%; float: left; margin-right: 30px; border: 10px"}
+Access to large-scale genomics and transcriptomics data from various tissues and cell lines allowed the discovery of wide-spread alternative splicing events and alternative promoter usage in mammalians. Between human and mouse, gene-level orthology is currently present for nearly 16k protein-coding genes spanning a diverse repertoire of over 200k total transcript isoforms. We developed a novel tool, ExTraMapper, Exon and Transcript-level Mappings of a given pair of orthologous genes between two organisms leveraging sequence conservation between exons of a pair of organisms and produces a fine-scale orthology mapping at the exon and then transcript level. ExTraMapper identifies more than 350k exon mappings, as well as 30k transcript mappings between human and mouse using only sequence and gene annotation information. The tool identifies a larger number of exon and transcript mappings compared to previous methods. Further, it identifies exon fusions, splits and losses due to splice site mutations, and finds mappings between microexons that were previously missed. By reanalysis of RNA-seq data from 13 matched human and mouse tissues, we show that ExTraMapper improves the correlation of transcript-specific expression levels suggesting a more accurate mapping of human and mouse transcripts.
 </div>
+
 ---- 
-<br>
-<br>
-<br>
+
 
 ## Platform-independent Isoform-level Gene Signatures for Stratification of Cancer Patients into Molecular Subgroups
 **Sharmishtha Pal, Yingtao Bi, Arunima Shilpi, Yanrong Ji, Manoj Kandpal**
 <div style="text-align: justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/pigex.jpg){: style="width: 35%; float: left; margin-right: 30px; border: 10px"}
-Based on recent studies from Our group and others, significant expression differences were observed between different sample groups (e.g., developmental stages, cancer subtypes, normal vs cancer) for numerous genes at the isoform-level but not at the overall gene-level. We investigated whether the isoform-level transcriptome changes could provide better patient stratification in terms of overall prognosis and classification accuracy. His group developed novel methods, by integrating data discretization, feature selection, and meta-classification algorithms, for derivation of platform-independent gene signature for multi-label molecular stratification of cancer patients, from exon-array and RNA-seq data. The application of these algorithms has led to the development of new methods for diagnosis of glioblastoma and ovarian serous carcinoma among others, and the investigation of alternative splicing on drug-target gene interactions.
+Based on recent studies from Our group and others, significant expression differences were observed between different sample groups (e.g., developmental stages, cancer subtypes, normal vs cancer) for numerous genes at the isoform-level but not at the overall gene-level. We investigated whether the isoform-level transcriptome changes could provide better patient stratification in terms of overall prognosis and classification accuracy. His group developed novel methods, by integrating data discretization, feature selection, and meta-classification algorithms, for derivation of platform-independent gene signature for multi-label molecular stratification of cancer patients, from exon-array and RNA-seq data. The application of these algorithms has led to the development of new methods for diagnosis of glioblastoma and ovarian serous carcinoma among others, and the investigation of alternative splicing on drug-target gene interactions. 
 </div>
 ---- 
 
