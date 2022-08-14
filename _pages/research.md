@@ -15,8 +15,7 @@ The central hypothesis of our laboratory is that the isoform-level gene products
 Our research is focused on developing statistical machine learning based algorithms and informatics solutions for knowledge extraction in biology and medicine. Our ongoing research work, funded by National Library of Medicine/NIH R01, focuses on developing novel bioinformatics methods to help in silico discovery and research for accelerating the linkage of phenotypic and genomic information at gene-isoform level. The overarching goal of the lab is to translate data from high dimensional (-omic) platforms (e.g., NextGen sequencing) to derive experimentally interpretable and testable discovery models for the identification and characterization of transcript-variants/protein isoforms, networks and pathways involved in normal and disease cells. 
 </div>
 ----
-####
-
+----
 
 <!-- #### Summary of Ongoing and Past Research Projects: -->
 
