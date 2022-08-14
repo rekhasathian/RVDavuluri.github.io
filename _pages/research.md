@@ -9,17 +9,18 @@ permalink: /research/
 # Research Highlights
 
 ---
-![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
+<div style="text-align: justify">
 The central hypothesis of our laboratory is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene-isoform-centric” rather than “gene-centric” approaches. 
-{: style="text-align: justify"}
 
 Our research is focused on developing statistical machine learning based algorithms and informatics solutions for knowledge extraction in biology and medicine. Our ongoing research work, funded by National Library of Medicine/NIH R01, focuses on developing novel bioinformatics methods to help in silico discovery and research for accelerating the linkage of phenotypic and genomic information at gene-isoform level. The overarching goal of the lab is to translate data from high dimensional (-omic) platforms (e.g., NextGen sequencing) to derive experimentally interpretable and testable discovery models for the identification and characterization of transcript-variants/protein isoforms, networks and pathways involved in normal and disease cells. 
-{: style="text-align: justify"}
+</div>
+----
+####
 
-## Summary of Ongoing and Past Research Projects:
 
-## Viral DNABERT: A robust BERT model for SARS-Cov2 and other virus strains:
+
+## Viral DNABERT: A robust BERT model for SARS-Cov2 and other virus strains
 ### [Code]()
 **Pratik Dutta, Zhihan Zhou**
 <div style="text-align: justify">
