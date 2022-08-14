@@ -45,14 +45,12 @@ Understanding the hidden instructions within genome on gene regulation is crucia
 #### ExTraMapper: exon- and transcript-level mappings for orthologous gene pairs:
 #### [Code](https://github.com/RDavuluri-Lab-SUNY-STONYBROOK/ExTraMapper)
 **Abhijit Chakraborthy, Ferhat Ay**
-
+<div style="text-align: justify">
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/extramapper.jpeg){: style="width: 70%; float: center; margin: 10px"}
-<br/>
 ExTraMapper is a novel tool to find Exon and Transcript-level Mappings of a given pair of orthologous genes between two organisms leveraging sequence conservation between exons of a pair of organisms and produces a fine-scale orthology mapping at the exon and then transcript level. The tool identifies a larger number of exon and transcript mappings compared to previous methods. Further, it identifies exon fusions, splits and losses due to splice site mutations, and finds mappings between microexons that were previously missed.
 {: style="text-align: justify"}
-<br/>
-<br/>
-
+</div>
+---- 
 
 ## Platform-independent isoform-level gene signatures for stratification of cancer patients into molecular subgroups:
 **Sharmishtha Pal, Yingtao Bi, Arunima Shilpi, Yanrong Ji, Manoj Kandpal**
