@@ -6,7 +6,10 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Highlights
+
+---
+![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 The central hypothesis of our laboratory is that the isoform-level gene products “transcript variants” and “protein isoforms” are the basic functional units in the mammalian cell, and accordingly, the informatics platforms – ranging from basic molecular biology data management systems to the biomarker and therapeutic drug target discovery for precision medicine – should adapt “gene-isoform-centric” rather than “gene-centric” approaches. 
 {: style="text-align: justify"}
@@ -57,16 +60,16 @@ Based on recent studies from Our group and others, significant expression differ
 {: style="text-align: justify"}
 <br/>
 <br/>
-### Isoform-level gene expression and regulation in mammalian development and cancer:
+## Isoform-level gene expression and regulation in mammalian development and cancer:
+<div style="text-align: justify">
 Recent genome-wide studies have discovered that majority of human genes produce multiple transcript-variants/protein-isoforms, which could be involved in different functional pathways. Moreover, altered expression of specific isoforms for numerous genes is linked with cancer and its prognosis, as cancer cells manipulate regulatory mechanisms to express specific isoforms that confer drug resistance and survival advantages. For example, cancer-associated alterations in alternative exons and splicing machinery have been identified in cancer samples, suggesting that specific transcript-variants could be more effective as diagnostic and prognostic markers than corresponding genes. In a recent study, Our Dgroup discovered that majority of genes associated with neurological diseases expressed multiple transcripts through alternative promoters by using integrative NextGen sequencing based experimental approaches and bioinformatics analysis. The study also observed aberrant use of alternative promoters and splice variants in different cancers. Subsequently, his group demonstrated that cancer cell-lines regardless of their tissue of origin can be effectively discriminated from non-cancer cell-lines at isoform-level, but not at gene-level. The novel informatics methods have been successfully applied by his collaborators in different cancer studies.
-{: style="text-align: justify"}
-<br/>
-<br/>
-### Algorithms and bioinformatics software for analyses of NextGen sequence data:
+</div>
+---- 
+
+## Algorithms and bioinformatics software for analyses of NextGen sequence data:
+<div style="text-align: justify">
 Mapping genome-wide data to human subtelomeres has been problematic due to the incomplete assembly and challenges of lowcopy repetitive DNA elements. Our group developed novel bioinformatics pipelines for incorporating multi-read mapping for annotation of the updated assemblies using short-read data sets from ChIP-seq data, and RNA-seq data. As part of other collaborative efforts, we also developed bioinformatics methods for identification of single-nucleotide polymorphisms (SNPs) that alter miRNA gene regulation and influence tumor susceptibility. 
-{: style="text-align: justify"}
-<br/>
-<br/>
+</div>
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
 
